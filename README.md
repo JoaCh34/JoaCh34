@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JoaCh34
 - 👀 I’m interested in how to migrate successfull from Windows to Linux Mint
 - 🌱 I’m currently learning Export my data from OneNote to Obsidian
-- 💞️ I’m looking to collaborate on successfull migrations from windows desktop to Linux desktop
+- 💞️ I’m looking to collaborate on successful migration from Windows desktop to Linux desktop
 - 📫 How to reach me via github
 - 😄 Pronouns: old_but_still_learning
 - ⚡ Fun fact: Riesling wine
